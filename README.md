@@ -1,0 +1,2 @@
+# ZPEventTransmit_code
+本Demo是把原先系统自动处理触摸事件的过程用代码的方式表示出来。
